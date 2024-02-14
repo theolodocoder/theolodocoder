@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theolodocoder
-- 👀 I’m interested in making dreams come true
+- 👀 I’m interested in defiling laws with code
 - 🌱 I’m currently learning golang and c
 - 📫 How to reach me theolodocoder@gmail.com
 - ⚡ Fun fact: I'm just an olodo that tried coding 😅
